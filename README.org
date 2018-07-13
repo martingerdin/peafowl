@@ -1,0 +1,2 @@
+* peafowl
+An in-browser javascript based data collection instrument for research.
